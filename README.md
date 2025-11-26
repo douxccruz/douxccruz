@@ -1,8 +1,8 @@
 
 ### Olá! Eu sou o Douglas Cruz 🤙
 
-[![Blog](https://img.shields.io/website?label=FulmenTecnologia.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://fulmentecnologia.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/fulmentecnologia)
+[![Blog](https://img.shields.io/website?label=AuraWave.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://aurawave.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/AuraWave)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/douxccruz)
 
 
